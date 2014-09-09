@@ -2,4 +2,4 @@ MineSweeper
 ===========
 
 
-Have a go newideals.co.uk/newi9345/minesweeper
+Have a go http://newideals.co.uk/newi9345/minesweeper
